@@ -2,3 +2,5 @@
 
 git clone https://github.com/WordPress/WordPress.git /var/www
 
+service nginx reload
+
